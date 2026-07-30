@@ -1,0 +1,7 @@
+[search]
+keyword = "ERROR"
+regex_mode = false
+case_sensitive = false
+
+[output]
+export_file = "./result.txt"
